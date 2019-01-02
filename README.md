@@ -1,5 +1,5 @@
 # Mata Kuliah Teknologi Cloud Computing 2018/2019
-### DR. Bambang Purnomosidi D. P. (@bambangpdp)
+### DR. Bambang Purnomosidi D. P. ([Instagram](https://www.instagram.com/bambangpdp "Instagram"))
 ---
 Presenter:
 1. Dwi Nurhadi (175410156) - XAAS
