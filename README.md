@@ -1,5 +1,5 @@
 # Mata Kuliah Teknologi Cloud Computing 2018/2019
-DR. Bambang Purnomosidi D. P. (@bambangpdp)
+### DR. Bambang Purnomosidi D. P. (@bambangpdp)
 ---
 Presenter:
 1. Dwi Nurhadi (175410156) - XAAS
@@ -11,6 +11,6 @@ Presenter:
 7. Elsa Yunia (165410019) - Overview Kubernetes
 8. Nur Rochim (175410126) - Kubernetes Fundamental
 ---
-Sekolah Tinggi Manajemen Informatika
-AKAKOM
-2018
+### Sekolah Tinggi Manajemen Informatika
+### AKAKOM
+### 2018
